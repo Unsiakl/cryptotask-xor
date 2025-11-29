@@ -1,6 +1,8 @@
+Nama Mahasiswa: Fery Ardiansyah
+NIM: 23040101018
 Tugas Sesi 6 – Implementasi Kriptografi
-CRUD + XOR Stream Cipher + MySQL (Python)
 
+CRUD + XOR Stream Cipher + MySQL (Python)
 Repository ini berisi implementasi tugas kriptografi untuk membuat aplikasi CLI sederhana yang melakukan operasi CRUD pada database MySQL. Semua data yang disimpan dalam database akan dienkripsi menggunakan metode stream cipher XOR.
 
 ===============================================================================
