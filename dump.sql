@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS cryptotask CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE cryptotask;
+
+DROP TABLE IF EXISTS users;
+CREATE TABLE users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARBINARY(512),
+  email VARBINARY(512),
+  note VARBINARY(2048)
+);
