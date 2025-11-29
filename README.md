@@ -125,10 +125,3 @@ Email : John@gmail.com
 Catatan : Agen rahasia 1998
 
 ===============================================================================
-
-Identitas Pembuat
-
-Nama : [Isi Nama Anda]
-NIM : [Isi NIM Anda]
-Mata Kuliah : Kriptografi
-Tugas : Sesi 6 – Implementasi Kriptografi (CRUD + XOR Encryption)
