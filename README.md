@@ -87,11 +87,6 @@ Hasil XOR diencode base64 dan disimpan ke database
 
 Saat menampilkan data, ciphertext di-decode lalu di-XOR ulang untuk mendapatkan plaintext
 
-Contoh logika XOR pada program:
-out = bytes([p[i] ^ KEY[i % len(KEY)] for i in range(len(p))])
-
-Metode ini tidak aman untuk penggunaan produksi dan digunakan hanya untuk kepentingan tugas/latihan kriptografi.
-
 ===============================================================================
 
 Struktur Database
