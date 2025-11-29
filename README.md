@@ -27,7 +27,7 @@ xor_crud.py : Program utama CRUD + enkripsi XOR
 
 dump.sql : Struktur database MySQL (database: cryptotask, tabel: users)
 
-Snapshot.pdf : (Opsional) berisi screenshot bukti program berjalan
+Snapshot.pdf : berisi screenshot bukti program berjalan
 
 ===============================================================================
 
